@@ -6,6 +6,4 @@ My name is Agung. I create fast, clean, and maintainable applications. Backgroun
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anan474&show_icons=true&locale=en&layout=compact&theme=dark" alt="anan474" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anan474&show_icons=true&locale=en&theme=dark" alt="anan474" /></p>
-
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=anan474&layout=compact" alt="anan474" /></p>
