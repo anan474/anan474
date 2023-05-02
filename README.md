@@ -5,4 +5,3 @@ My name is Agung. I create fast, clean, and maintainable applications. Backgroun
 ## Statistics 🔥
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anan474)](https://git.io/streak-stats)
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=anan474&layout=compact" alt="anan474" /></p>
