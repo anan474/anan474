@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-My name is Agung. I create fast, clean, and maintainable applications. Background in computer science and ability as a full stack developer (front end and back end) allow me to create websites and mobile apps. Behind the curtain, I used a lot of technology such as ReactJs, React Native, NodeJs, ExpressJs, Flutter, Python, Git etc.
+My name is Agung. LLM agent manager by title, digital cats herder by practice—focused on building software that tames passenger ferry operations. I make AI do the heavy lifting so teams can stop babysitting systems and get back to moving people from A to B.
 
 ## Statistics 🔥
 
